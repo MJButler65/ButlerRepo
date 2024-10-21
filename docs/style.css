@@ -1,8 +1,65 @@
 body {
-    color: blue;
-    background-color: orange;
+    color: black;
+    background-color: #EC9706;
 }
 
 h1{
-    color: yellow;
+    color: Black;
+    font-size: 40px;
+}
+
+.headings {
+    display: flex;
+}
+
+h2{
+    color: grey;
+    font-size: 30px;
+    margin-left: 100px;
+}
+
+h3{
+    color: pink;
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+h4{
+    color: red;
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+.pic_of_me {
+    width: 400px;
+    height: auto;
+    margin-left: 50px;
+}
+
+.interns {
+    width: 400px;
+    height: auto;
+    margin-left: 50px;
+}
+
+.Shkeez{
+    width: 250px;
+    height: auto;
+    margin-left: 50px;
+}
+
+.Mira{
+    width: 250px;
+    height: auto;
+    margin-left: 50px;
+}
+
+.Minnie{
+    width: 250px;
+    height: auto;
+    margin-left: 50px;
+}
+
+p {
+    font-size: 20px;
 }
